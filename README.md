@@ -23,16 +23,4 @@ To run the website locally using VSCode Live Server, follow these steps:
 
 **This portfolio uses these basic HTML tags for structuring the website:**
 
-h1, h2, h3: Used for headings and subheadings.<br>
-p: For paragraphs of text.<br>
-table: To display tabular data, such as projects and skills.<br>
-tr, td: Table rows and data cells within the table.<br>
-img: For displaying images.<br>
-a: For hyperlinks, used to link to GitHub projects and social media.<br>
-form, input, textarea: For the contact form section where users can send messages.<br>
-section: Divides the website into different sections like Home, Projects, Skills, and Contact.<br>
-footer: Contains the footer information at the bottom of the website, including copyright and social links.<br>
-a: The anchor tag is used to create hyperlinks. The href attribute specifies the destination URL, and the text inside the tag serves as the clickable link.<br>
-&nbsp, strong, br, and align to format the website such as adding spaces, margins, breaks, and positioning the text<br>
-bgcolor: Used in the body tag to set a background color for the page.<br>
-width, height: Used in tags like img and td to define the size of images and table cells.<br>
+This portfolio uses basic HTML tags to structure the website in a simple and organized way. Headings like h1, h2, and h3 are used for titles and subtitles, while the p tag is for paragraphs of text. The table tag is used to show information in a clear format, with tr and td tags for rows and cells inside the table. Images are displayed using the img tag, and the a tag creates clickable links to projects on GitHub and social media. The form, input, and textarea tags allow users to send messages through the contact form. The section tag is used to divide the website into different parts, like Home, Projects, Skills, and Contact. The footer tag holds information at the bottom of the page, such as copyright details and links to social media. Other tags like nbsp, strong, br, and align are used to format the content, adding spaces, bold text, line breaks, and text positioning. The bgcolor attribute sets the page’s background color, while width and height are used to control the size of images and table cells.
