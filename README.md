@@ -7,9 +7,9 @@ This is my personal portfolio website showcasing my projects, skills, and a bit 
 To run the website locally using VSCode Live Server, follow these steps:
 
 1. **Clone the Repository**: 
-    -To clone a repository, run the Git: Clone command in the Command Palette (Ctrl+Shift+P), or select the Clone Repository button in the Source Control view.
-    -If you clone from GitHub, VS Code prompts you to authenticate with GitHub. Then, select a repository from the list to clone to your machine.
-    -For other Git providers, enter the repository URL, select Clone, and pick a folder on your local machine to clone the files into. VS Code opens the folder once the repository is cloned on your local machine.
+    <p>To clone a repository, run the Git: Clone command in the Command Palette (Ctrl+Shift+P), or select the Clone Repository button in the Source Control view.</p>
+    <p>If you clone from GitHub, VS Code prompts you to authenticate with GitHub. Then, select a repository from the list to clone to your machine.</p>
+    <p>For other Git providers, enter the repository URL, select Clone, and pick a folder on your local machine to clone the files into. VS Code opens the folder once the repository is cloned on your local machine.</p>
 2. **Open in VSCode:**
     -Open Visual Studio Code (VSCode).
     -Go to File -> Open Folder, and select the folder where you cloned the repository.
