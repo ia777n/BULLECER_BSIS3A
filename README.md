@@ -7,19 +7,19 @@ This is my personal portfolio website showcasing my projects, skills, and a bit 
 To run the website locally using VSCode Live Server, follow these steps:
 
 1. **Clone the Repository**: 
-    <p>To clone a repository, run the Git: Clone command in the Command Palette (Ctrl+Shift+P), or select the Clone Repository button in the Source Control view.</p>
-    <p>If you clone from GitHub, VS Code prompts you to authenticate with GitHub. Then, select a repository from the list to clone to your machine.</p>
-    <p>For other Git providers, enter the repository URL, select Clone, and pick a folder on your local machine to clone the files into. VS Code opens the folder once the repository is cloned on your local machine.</p>
+    <p>-To clone a repository, run the Git: Clone command in the Command Palette (Ctrl+Shift+P), or select the Clone Repository button in the Source Control view.<br>
+    -If you clone from GitHub, VS Code prompts you to authenticate with GitHub. Then, select a repository from the list to clone to your machine.<br>
+    -For other Git providers, enter the repository URL, select Clone, and pick a folder on your local machine to clone the files into. VS Code opens the folder once the repository is cloned on your local machine.</p>
 2. **Open in VSCode:**
-    -Open Visual Studio Code (VSCode).
-    -Go to File -> Open Folder, and select the folder where you cloned the repository.
+    <p>-Open Visual Studio Code (VSCode).</p>
+    <p>-Go to File -> Open Folder, and select the folder where you cloned the repository.</p>
 3. **Install Live Server Extension:**
-    -In VSCode, go to the Extensions tab (on the left sidebar).
-    -Search for Live Server and install it.
+    <p>-In VSCode, go to the Extensions tab (on the left sidebar).</p>
+   <p> -Search for Live Server and install it.</p>
 4. **Run the Site:**
-    -Once the Live Server extension is installed, open the index.html file.
-    -Right-click on the file and select Open with Live Server.
-    -The website should open automatically in your default browser at http://127.0.0.1:5500/.
+    <p>-Once the Live Server extension is installed, open the index.html file.</p>
+    <p>-Right-click on the file and select Open with Live Server.</p>
+    <p>-The website should open automatically in your default browser at http://127.0.0.1:5500/.</p>
 
 **This portfolio uses these basic HTML tags for structuring the website:**
 
