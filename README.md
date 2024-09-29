@@ -24,17 +24,17 @@ To run the website locally using VSCode Live Server, follow these steps:
 **This portfolio uses these basic HTML tags for structuring the website:**
 
 <p>
-h1, h2, h3: Used for headings and subheadings.<br>
-p: For paragraphs of text.<br>
-table: To display tabular data, such as projects and skills.<br>
-tr, td: Table rows and data cells within the table.<br>
-img: For displaying images.<br>
-a: For hyperlinks, used to link to GitHub projects and social media.<br>
-form, input, textarea: For the contact form section where users can send messages.<br>
-section: Divides the website into different sections like Home, Projects, Skills, and Contact.<br>
-footer: Contains the footer information at the bottom of the website, including copyright and social links.<br>
-a: The anchor tag is used to create hyperlinks. The href attribute specifies the destination URL, and the text inside the tag serves as the clickable link.<br>
-&nbsp, strong, br, and align to format the website such as adding spaces, margins, breaks, and positioning the text<br>
-bgcolor: Used in the body tag to set a background color for the page.<br>
-width, height: Used in tags like img and td to define the size of images and table cells.<br>
+-h1, h2, h3: Used for headings and subheadings.<br>
+-p: For paragraphs of text.<br>
+-table: To display tabular data, such as projects and skills.<br>
+-tr, td: Table rows and data cells within the table.<br>
+-img: For displaying images.<br>
+-a: For hyperlinks, used to link to GitHub projects and social media.<br>
+-form, input, textarea: For the contact form section where users can send messages.<br>
+-section: Divides the website into different sections like Home, Projects, Skills, and Contact.<br>
+-footer: Contains the footer information at the bottom of the website, including copyright and social links.<br>
+-a: The anchor tag is used to create hyperlinks. The href attribute specifies the destination URL, and the text inside the tag serves as the clickable link.<br>
+-nbsp, strong, br, and align to format the website such as adding spaces, margins, breaks, and positioning the text<br>
+-bgcolor: Used in the body tag to set a background color for the page.<br>
+-width, height: Used in tags like img and td to define the size of images and table cells.<br>
 </p>
